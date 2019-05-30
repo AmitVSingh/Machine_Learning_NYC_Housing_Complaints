@@ -6,7 +6,7 @@ This project provides solution to real-life business problems: 'Housing complain
 The people of New Yorker use the 311 system to report complaints about the non-emergency problems to local authorities. 
 In the last few years, the number of 311 complaints coming to the Department of Housing Preservation and Development has increased significantly. Although these complaints are not necessarily urgent, the large volume of complaints and the sudden increase is impacting the overall efficiency of operations of the agency.
 
-Therefore, I have developed an approach to help the Department of Housing Preservation and Development to manage their large volume of 311 complaints they are receiving every year.
+Therefore, I have developed a solution to help the Department of Housing Preservation and Development to manage their large volume of 311 complaints they are receiving every year.
 
 The project tries to answers several questions:
 
@@ -24,3 +24,6 @@ Two datasets have been used from the Department of Housing Preservation and Deve
 1. 311 complaint dataset (https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
 
 2. PLUTO dataset for housing (https://data.cityofnewyork.us/City-Government/Primary-Land-Use-Tax-Lot-Output-PLUTO-/xuk2-nczf)
+
+
+(The details of the project overview can be found in the following link https://courses.edx.org/courses/course-v1:IBM+DS0720EN+1T2019/course/ )
